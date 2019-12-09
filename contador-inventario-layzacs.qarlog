@@ -1,0 +1,19 @@
+Quartus II Archive log --	/home/layza.cs/CIL29002/contador-inventario-layzacs.qarlog
+
+Archive:	/home/layza.cs/CIL29002/contador-inventario-layzacs.qar
+Date:		Tue Dec  3 18:06:10 2019
+Quartus II 32-bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+
+	=========== Files Selected: ===========
+/home/layza.cs/CIL29002/contador-bin-down.bdf
+/home/layza.cs/CIL29002/contador-bin-sin.bdf
+/home/layza.cs/CIL29002/contador-down.vwf
+/home/layza.cs/CIL29002/contador-inventario-layzacs.qpf
+/home/layza.cs/CIL29002/contador-inventario-layzacs.qsf
+/home/layza.cs/CIL29002/contador-up.vwf
+/home/layza.cs/CIL29002/incremental_db/compiled_partitions/contador-inventario-layzacs.db_info
+/opt/altera/13.0sp1/quartus/linux/assignment_defaults.qdf
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

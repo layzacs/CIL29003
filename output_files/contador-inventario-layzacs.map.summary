@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Dec  3 18:04:37 2019
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : contador-inventario-layzacs
+Top-level Entity Name : contador-bin-down
+Family : Cyclone IV E
+Total logic elements : 5
+    Total combinational functions : 5
+    Dedicated logic registers : 4
+Total registers : 4
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
